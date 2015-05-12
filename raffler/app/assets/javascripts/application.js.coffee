@@ -9,4 +9,3 @@
 window.Raffler = Ember.Application.create({
   LOG_TRANSITIONS: true
 })
-
