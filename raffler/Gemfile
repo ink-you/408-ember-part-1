@@ -3,7 +3,7 @@ ruby '2.2.2'
 
 # https://github.com/emberjs/ember-rails
 gem 'ember-rails'
-gem "ember-source"
+gem "ember-source", "~> 1.11.0"
 
 
 

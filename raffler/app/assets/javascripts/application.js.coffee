@@ -6,5 +6,7 @@
 #= require raffler
 
 # for more details see: http://emberjs.com/guides/application/
-window.Raffler = Ember.Application.create()
+window.Raffler = Ember.Application.create({
+  LOG_TRANSITIONS: true
+})
 
